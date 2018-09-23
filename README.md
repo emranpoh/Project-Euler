@@ -6,9 +6,27 @@ Oh by the way it is all in [python].
 
 TBC List
 
-- [ ] 15 : Lattice paths
-- [ ] 18 : Maximum path sum I
+- [ ] 19 : Counting Sundays
 
+- [ ] 23 : Non-Abundant Sums
+- [ ] 24 : Lexicographic Permutations
+- [ ] 26 : Reciprocal Cycles
+- [ ] 26 : Reciprocal Cycles
+- [ ] 27 : Quadratic Primes
+- [ ] 28 : Number Spiral Diagonals
+- [ ] 29 : Distinct Powers
+
+- [ ] 30 : Digit Fifth Powers
+- [ ] 31 : Coin sums
+- [ ] 32 : Pandigital products	
+- [ ] 33 : Digit cancelling fractions	
+- [ ] 34 : Digit factorials	
+- [ ] 35 : Circular primes	
+- [ ] 36 : Double-base palindromes	
+- [ ] 37 : Truncatable primes	
+- [ ] 38 : Pandigital multiples	
+- [ ] 39 : Integer right triangles	
+- [ ] 40 : Champernowne's constant
 
 [python]: <https://www.python.org/>
 [Project Euler]: <https://projecteuler.net/>
