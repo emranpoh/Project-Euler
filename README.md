@@ -6,7 +6,7 @@ Oh by the way it is all in [python].
 
 TBC List
 
-- [ ] 19 : Counting Sundays
+- [x] 1-20
 
 - [ ] 23 : Non-Abundant Sums
 - [ ] 24 : Lexicographic Permutations
@@ -18,14 +18,14 @@ TBC List
 
 - [ ] 30 : Digit Fifth Powers
 - [ ] 31 : Coin sums
-- [ ] 32 : Pandigital products	
-- [ ] 33 : Digit cancelling fractions	
-- [ ] 34 : Digit factorials	
-- [ ] 35 : Circular primes	
-- [ ] 36 : Double-base palindromes	
-- [ ] 37 : Truncatable primes	
-- [ ] 38 : Pandigital multiples	
-- [ ] 39 : Integer right triangles	
+- [ ] 32 : Pandigital products
+- [ ] 33 : Digit cancelling fractions
+- [ ] 34 : Digit factorials
+- [ ] 35 : Circular primes
+- [ ] 36 : Double-base palindromes
+- [ ] 37 : Truncatable primes
+- [ ] 38 : Pandigital multiples
+- [ ] 39 : Integer right triangles
 - [ ] 40 : Champernowne's constant
 
 [python]: <https://www.python.org/>
