@@ -1,3 +1,16 @@
+import math
+
+def prime_eratosthenes(n):
+    prime_list = []
+    primes = []
+    for i in range(2, n+1):
+        if i not in prime_list:
+            # print (i)
+            primes.append(i)
+            for j in range(i*i, n+1, i):
+                prime_list.append(j)
+    return primes
+
 def factorise(a):
 
     factors = []
@@ -36,3 +49,12 @@ def checkPerfection(a):
         return -1
     elif totalVal > a:
         return 1
+
+def checkPentagonal(input):
+
+    output = (math.sqrt(input*24 + 1) + 1)/6
+
+    if(int(output) == output):
+        return True
+
+    return False
